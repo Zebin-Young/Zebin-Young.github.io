@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zebin Yang"
-  avatar           : "images/self.png"
+  avatar           : "images/photo.jpg"
   bio              : ""
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=P1c6nDYAAAAJ"
-  email            : "zwx.andy@stu.pku.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=fo0whCoAAAAJ"
+  email            : "2401111912@stu.pku.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "wenxuan-zeng-82851428a"
+  linkedin         : # "wenxuan-zeng-82851428a"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/orcid=0009-0007-0672-6389"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
