@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-😎 Hi, I am currently a third-year master student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm). Pior to that, I received the B.S. degree from University of Electronic Science and Technology of China (UESTC) in 2023, supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm). My current research interests primarily focus on the **Efficient AI Algorithm & System, Agentic AI, Multimodal LLM, and LLM Reasoning.** From 2022, I have also explored a lot in the field of **Privacy-Preserving Machine Learning (PPML)**, focusing on accelerating the private inference systems via protocol-algorithm co-optimization.
+Hi, I am currently a second-year PH.D. student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm). Pior to that, I received the B.S. degree from Peking University (PKU) in 2024, supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm). My current research interests primarily focus on the **Efficient Embodied AI Algorithm & System, Efficient LLM Inference, and Edge Computing.** 
 
 My resumes are available here: [[EN](https://drive.google.com/file/d/1olqLW8GYoEe4OQcmY0q6JCK3jhF7YogQ/view?usp=sharing)] 😊 Kind tips: resumes may be outdated this time, but this homepage shows the latest information.
 
