@@ -32,15 +32,7 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 
 
 # 🔥 News
-- 🎉 [2025.11.8] Our paper Jupiter is accepted by AAAI 2026!
-- 🎉 [2025.9.18] Our paper MPCache is accepted by NeurIPS 2025!
-- 🎉 [2025.7.30] I am happy to be invited as a Program Committee in AAAI 2026!
-- 🔥 [2025.7.22] We have published our first survey on "Efficient Cross-Level Privacy-Preserving Machine Learning"! Welcome to cite and raise pull requests! Click [here](https://mp.weixin.qq.com/s/V0gn0BonQVuC4vz2oQ7knw) to see the report by SyncedTech.
-- 🔥 [2025.6.26] Our team at Peking University won the **Global 1st Place🏅** in DAC System Design Contest!
-- 🎉 [2025.5.21] Receive my first internship offer from Microsoft AI!
-- 🎉 [2025.5.13] Welcome to my newly updated homepage! I finally change my homepage template today (lazy me 😮‍💨)
-- 🎉 [2025.4.13] I am happy to be invited as a reviewer in NeurIPS 2025!
-- 🥺 I hope there will be some good news in the near future 🙏 **Move on and be patient :)**
+- 🎉 [2025.9.18] Our paper EfficientNav is accepted by NeurIPS 2025!
 
 
 # 📝 Publications
@@ -64,22 +56,15 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 
 
 # 🎖 Honors and Awards
-- [2024] Third Prize Scholarship at Peking University
-- [2024] Merit Student Scholarship at Peking University
-- [2023] Outstanding Graduate Student and Honors Research Certificate at UESTC
-- [2020,2021,2022] Outstanding Student Scholarship and "Innovation and Entrepreneurship Training Plan" at UESTC
-- [2022] Special Prize of "Tencent" Scholarship (3 Places at UESTC in Total)
-- [2021] First Prize of "Shi Qiang" Scholarship (5 Places at UESTC in Total)
+- [2024] Outstanding Graduates at Peking University
+- [2023] UBIQUANT scholarship at Peking University
+- [2023] Merit Student Scholarship at Peking University
+- [2022] Lee Wai Wing scholarship at Peking University
+- [2022] Merit Student Scholarship at Peking University
 
 
-# 🏆 Contest Awards
-- [2025] DAC system design on "On-Device Multi-modal Generative AI for Science", **Global 1st Place**
-- [2024,2025] Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 2nd, 3rd Prize**
-- [2023] Annual Symposium and Tech Day of Institute for Artificial Intelligence at Peking University, **Most Popular Award**
-- [2023] China Collegiate Computing Contest, **National Special Prize (the 1st Place)**
-- [2022] "Pan-Pearl River Delta" Collegiate Computer Work Competition, **National Third Prize**
-- [2021] China Collegiate Computing Contest, **National First Prize (the 1st Place)**
-- [2021] "Zhong Gong Cup" Sichuan Collegiate Computer Work Competition, **Provincial Special Prize**
+
+
 
 
 
