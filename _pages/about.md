@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-
-
 <span class='anchor' id='about-me'></span>
 
 Hi, I am currently a second-year PH.D. student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm). Pior to that, I received the B.S. degree from Peking University (PKU) in 2024, supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm). My current research interests primarily focus on the **Efficient Embodied AI Algorithm & System, Efficient LLM Inference, and Edge Computing.** 
 
-My resumes are available here: [[EN](https://drive.google.com/file/d/1olqLW8GYoEe4OQcmY0q6JCK3jhF7YogQ/view?usp=sharing)] 😊 Kind tips: resumes may be outdated this time, but this homepage shows the latest information.
+My resumes are available here: [[EN](https://drive.google.com/file/d/1ju-vPJCUOYIrrPnxVkrNBUiEgc4Gdqj5/view?usp=sharing)] 😊 Kind tips: resumes may be outdated this time, but this homepage shows the latest information.
 
 
 # 📖 Educations
