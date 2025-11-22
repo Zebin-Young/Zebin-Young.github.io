@@ -48,16 +48,16 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
   **Zebin Yang**, Sunjian Zheng, Tong Xie, Tianshi Xu, Bo Yu, Fan Wang, Jie Tang, Shaoshan Liu, Meng Li \
   NeurIPS 2025, [[Paper](https://arxiv.org/abs/2510.18546)]
 - MCUBERT: Memory-efficient BERT inference on commodity microcontrollers \
-  **Zebin Yang**, Renze Chen, Taiqiang Wu, Ngai Wong, Yun Liang, Runsheng Wang, Ru Huang, Meng Li \
+  **Zebin Yang^*^**, Renze Chen^*^, Taiqiang Wu, Ngai Wong, Yun Liang, Runsheng Wang, Ru Huang, Meng Li \
   ICCAD 2024, [[Paper](https://arxiv.org/abs/2410.17957)]
 - FastQuery: Communication-efficient Embedding Table Query for Private LLMs inference \
-  Chenqi Lin, Tianshi Xu, **Zebin Yang**, Runsheng Wang, Ru Huang, Meng Li \
+  Chenqi Lin^*^, Tianshi Xu^*^, **Zebin Yang^*^**, Runsheng Wang, Ru Huang, Meng Li \
   DAC 2024, [[Paper](https://arxiv.org/abs/2405.16241)]
 - Propd: Dynamic token tree pruning and generation for llm parallel decoding \
   Shuzhang Zhong, **Zebin Yang**, Ruihao Gong, Runsheng Wang, Ru Huang, Meng Li \
   ICCAD 2024, [[Paper](https://arxiv.org/abs/2402.13485)]
 - Lightmamba: Efficient mamba acceleration on fpga with quantization and hardware co-design \
-  Renjie Wei, Songqiang Xu, Linfeng Zhong, Zebin Yang, Qingyu Guo, Yuan Wang, Runsheng Wang, Meng Li \
+  Renjie Wei^*^, Songqiang Xu^*^, Linfeng Zhong^*^, Zebin Yang, Qingyu Guo, Yuan Wang, Runsheng Wang, Meng Li \
   DATE 2024, [[Paper](https://arxiv.org/abs/2502.15260)]
 
 
