@@ -48,7 +48,7 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
   **Zebin Yang**, Sunjian Zheng, Tong Xie, Tianshi Xu, Bo Yu, Fan Wang, Jie Tang, Shaoshan Liu, Meng Li \
   NeurIPS 2025, [[Paper](https://arxiv.org/abs/2510.18546)]
 - MCUBERT: Memory-efficient BERT inference on commodity microcontrollers \
-  **Zebin Yang^*^**, Renze Chen^*^, Taiqiang Wu, Ngai Wong, Yun Liang, Runsheng Wang, Ru Huang, Meng Li \
+  **Zebin Yang<sup>*</sup>**, Renze Chen<sup>*</sup>, Taiqiang Wu, Ngai Wong, Yun Liang, Runsheng Wang, Ru Huang, Meng Li \
   ICCAD 2024, [[Paper](https://arxiv.org/abs/2410.17957)]
 - FastQuery: Communication-efficient Embedding Table Query for Private LLMs inference \
   Chenqi Lin^*^, Tianshi Xu^*^, **Zebin Yang^*^**, Runsheng Wang, Ru Huang, Meng Li \
