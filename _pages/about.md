@@ -46,7 +46,7 @@ My resumes are available here: [[EN](https://drive.google.com/file/d/1ju-vPJCUOY
   Shuzhang Zhong, **Zebin Yang**, Ruihao Gong, Runsheng Wang, Ru Huang, Meng Li \
   ICCAD 2024, [[Paper](https://arxiv.org/abs/2402.13485)]
 - Lightmamba: Efficient mamba acceleration on fpga with quantization and hardware co-design \
-  Renjie Wei\*, Songqiang Xu\*, Linfeng Zhong\*, Zebin Yang, Qingyu Guo, Yuan Wang, Runsheng Wang, Meng Li \
+  Renjie Wei\*, Songqiang Xu\*, Linfeng Zhong\*, **Zebin Yang**, Qingyu Guo, Yuan Wang, Runsheng Wang, Meng Li \
   DATE 2024, [[Paper](https://arxiv.org/abs/2502.15260)] [[Github](https://github.com/PKU-SEC-Lab/LightMamba)]
 
 
