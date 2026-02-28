@@ -21,6 +21,8 @@ My resumes are available here: [[EN](https://drive.google.com/file/d/1ju-vPJCUOY
 
 
 # 🔥 News
+- 🎉 [2026.2.23] Our paper KEEP is accepted by DAC 2026!
+- 🎉 [2026.2.23] Our paper DySL-VLA is accepted by DAC 2026!
 - 🎉 [2025.9.18] Our paper EfficientNav is accepted by NeurIPS 2025!
 
 
