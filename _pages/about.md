@@ -27,9 +27,15 @@ My resumes are available here: [[EN](https://drive.google.com/file/d/1ju-vPJCUOY
 
 
 # 📝 Publications
+- KEEP: A KV-Cache-Centric Memory Management System for Efficient Embodied Planning \
+  **Zebin Yang**, Tong Xie, Baotong Lu, Bo Yu, Shaoshan Liu, Meng Li \
+  DAC 2026, [[Paper](https://arxiv.org/abs/2510.18546)] [[Github](https://github.com/PKU-SEC-Lab/EfficientNav)]
+- DySL-VLA: Efficient Vision-Language-Action Model Inference via Dynamic-Static Layer-Skipping for Robot Manipulation \
+  **Zebin Yang**, Yijiahao Qi, Tong Xie, Bo Yu, Shaoshan Liu, Meng Li \
+  DAC 2025, [[Paper](https://arxiv.org/abs/2510.18546)] [[Github](https://github.com/PKU-SEC-Lab/EfficientNav)]
 - EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval \
   **Zebin Yang**, Sunjian Zheng, Tong Xie, Tianshi Xu, Bo Yu, Fan Wang, Jie Tang, Shaoshan Liu, Meng Li \
-  NeurIPS 2025, [[Paper](https://arxiv.org/abs/2510.18546)]
+  NeurIPS 2025, [[Paper](https://arxiv.org/abs/2510.18546)] [[Github](https://github.com/PKU-SEC-Lab/EfficientNav)]
 - MCUBERT: Memory-efficient BERT inference on commodity microcontrollers \
   **Zebin Yang\***, Renze Chen\*, Taiqiang Wu, Ngai Wong, Yun Liang, Runsheng Wang, Ru Huang, Meng Li \
   ICCAD 2024, [[Paper](https://arxiv.org/abs/2410.17957)]
@@ -41,7 +47,7 @@ My resumes are available here: [[EN](https://drive.google.com/file/d/1ju-vPJCUOY
   ICCAD 2024, [[Paper](https://arxiv.org/abs/2402.13485)]
 - Lightmamba: Efficient mamba acceleration on fpga with quantization and hardware co-design \
   Renjie Wei\*, Songqiang Xu\*, Linfeng Zhong\*, Zebin Yang, Qingyu Guo, Yuan Wang, Runsheng Wang, Meng Li \
-  DATE 2024, [[Paper](https://arxiv.org/abs/2502.15260)]
+  DATE 2024, [[Paper](https://arxiv.org/abs/2502.15260)] [[Github](https://github.com/PKU-SEC-Lab/LightMamba)]
 
 
 
