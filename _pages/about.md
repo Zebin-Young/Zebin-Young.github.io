@@ -59,7 +59,11 @@ My resumes are available here: [[EN](https://drive.google.com/file/d/1ju-vPJCUOY
 - [2022] Lee Wai Wing scholarship at Peking University
 - [2022] Merit Student Scholarship at Peking University
 
-
+# 🏆 Competition Awards
+- [2022] First Prize, The 13th Chinese Mathematics Competitions (CMC)
+- [2022] Second Prize, 2022 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) (Higher Education Press Cup)
+- [2022] Second Prize, The 38th National Regions Physics Competition
+- [2021] Second Prize, 2021 Asia and Pacific Mathematical Contest in Modeling (APMCM)
 
 
 
