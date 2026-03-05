@@ -16,8 +16,8 @@ My resumes are available here: [[EN](https://drive.google.com/file/d/1ju-vPJCUOY
 
 
 # 📖 Educations
-- [2024.06-Now] PH.D. Peking University (PKU)
-- [2020.09-2024.06] B.S. Peking University (PKU)
+- [2024.06-Now] PH.D., School of Integrated Circuits,  Peking University (PKU)
+- [2020.09-2024.06] B.S., School of Electronic Engineering and Computer Science, Peking University (PKU)
 
 
 # 🔥 News
