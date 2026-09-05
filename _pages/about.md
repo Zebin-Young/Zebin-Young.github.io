@@ -12,7 +12,7 @@ redirect_from:
 
 Hi, I am currently a second-year PH.D. student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm). Pior to that, I received the B.S. degree from Peking University (PKU) in 2024, supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm). My current research interests primarily focus on the **Efficient Embodied AI Algorithm & System, Efficient LLM Inference, and Edge Computing.** 
 
-My resumes are available here: [[EN](https://drive.google.com/file/d/1ju-vPJCUOYIrrPnxVkrNBUiEgc4Gdqj5/view?usp=sharing)] 😊 Kind tips: resumes may be outdated this time, but this homepage shows the latest information.
+My resume is available here: [[EN](/files/Clean_Resume_YZB.pdf)] 😊 Kind tip: the resume may not always reflect the latest updates; this homepage contains the most recent information.
 
 
 # 📖 Educations
@@ -21,12 +21,16 @@ My resumes are available here: [[EN](https://drive.google.com/file/d/1ju-vPJCUOY
 
 
 # 🔥 News
+- 🎉 [2026.9.5] Our paper Jetson-PI is accepted by CoRL 2026!
 - 🎉 [2026.2.23] Our paper KEEP is accepted by DAC 2026!
 - 🎉 [2026.2.23] Our paper DySL-VLA is accepted by DAC 2026!
 - 🎉 [2025.9.18] Our paper EfficientNav is accepted by NeurIPS 2025!
 
 
 # 📝 Publications
+- Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference \
+  **Zebin Yang**, Qi Wang, Yunhe Wang, Xiurui Guo, Bo Yu, Shaoshan Liu, Jiafeng Xu, Hao Dong, Meng Li \
+  CoRL 2026, [[Paper](https://arxiv.org/abs/2607.12659)] [[Code](https://github.com/PKU-SEC-Lab/Jetson-PI)] [[Edge Runtime](https://github.com/PKU-SEC-Lab/Jetson-PI-Edge)]
 - KEEP: A KV-Cache-Centric Memory Management System for Efficient Embodied Planning \
   **Zebin Yang**, Tong Xie, Baotong Lu, Bo Yu, Shaoshan Liu, Meng Li \
   DAC 2026, CCF-A, [[Paper](https://arxiv.org/abs/2602.23592)] [[Github](https://github.com/PKU-SECLab/KEEP_Embodied_Memory)]
@@ -64,7 +68,6 @@ My resumes are available here: [[EN](https://drive.google.com/file/d/1ju-vPJCUOY
 - [2022] Second Prize, 2022 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) (Higher Education Press Cup)
 - [2022] Second Prize, The 38th National Regions Physics Competition
 - [2021] Second Prize, 2021 Asia and Pacific Mathematical Contest in Modeling (APMCM)
-
 
 
 
