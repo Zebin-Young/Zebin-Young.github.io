@@ -58,7 +58,7 @@ My resume is available here: [[EN](/files/Clean_Resume_YZB.pdf)] 😊 Kind tip: 
 
 
 # 🎖 Honors and Awards
-- [2026] National Scholarship (Ph.D Students)
+- <span style="color:red">[2026] National Scholarship (Ph.D Students)</span>
 - [2024] Outstanding Graduates at Peking University
 - [2023] UBIQUANT scholarship
 - [2023] Merit Student Scholarship
