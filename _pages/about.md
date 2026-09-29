@@ -21,6 +21,7 @@ My resume is available here: [[EN](/files/Clean_Resume_YZB.pdf)] 😊 Kind tip: 
 
 
 # 🔥 News
+- 🎉 [2026.9] I was awarded the National Scholarship for Doctoral Students at Peking University!
 - 🎉 [2026.9.5] Our paper Jetson-PI is accepted by CoRL 2026!
 - 🎉 [2026.2.23] Our paper KEEP is accepted by DAC 2026!
 - 🎉 [2026.2.23] Our paper DySL-VLA is accepted by DAC 2026!
@@ -57,6 +58,7 @@ My resume is available here: [[EN](/files/Clean_Resume_YZB.pdf)] 😊 Kind tip: 
 
 
 # 🎖 Honors and Awards
+- [2026] National Scholarship for Doctoral Students at Peking University
 - [2024] Outstanding Graduates at Peking University
 - [2023] UBIQUANT scholarship at Peking University
 - [2023] Merit Student Scholarship at Peking University
