@@ -17,7 +17,7 @@ My resume is available here: [[EN](/files/Clean_Resume_YZB.pdf)] 😊 Kind tip: 
 
 # 📖 Educations
 - [2024.06-Now] PH.D., School of Integrated Circuits,  Peking University (PKU)
-- [2020.09-2024.06] B.S., School of Electronic Engineering and Computer Science, Peking University (PKU)
+- [2020.09-2024.06] B.S., School of Electronic Engineering and Computer Science, Peking University (PKU) **(with Honors)**
 
 
 # 🔥 News
