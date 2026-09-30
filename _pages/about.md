@@ -22,16 +22,16 @@ My resume is available here: [[EN](/files/Clean_Resume_YZB.pdf)] 😊 Kind tip: 
 
 # 🔥 News
 - 🎉 [2026.9] I was awarded the National Scholarship (Ph.D Students)!
-- 🎉 [2026.9.5] Our paper Jetson-PI is accepted by CoRL 2026!
+- 🎉 [2026.9.5] Our paper Jetson-PI is accepted by CoRL 2026 (**Spotlight**)!
 - 🎉 [2026.2.23] Our paper KEEP is accepted by DAC 2026!
 - 🎉 [2026.2.23] Our paper DySL-VLA is accepted by DAC 2026!
 - 🎉 [2025.9.18] Our paper EfficientNav is accepted by NeurIPS 2025!
 
 
 # 📝 Publications
-- Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference \
+- <span style="color:red">Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference</span> \
   **Zebin Yang**, Qi Wang, Yunhe Wang, Xiurui Guo, Bo Yu, Shaoshan Liu, Jiafeng Xu, Hao Dong, Meng Li \
-  CoRL 2026, [[Paper](https://arxiv.org/abs/2607.12659)] [[Code](https://github.com/PKU-SEC-Lab/Jetson-PI)] [[Edge Runtime](https://github.com/PKU-SEC-Lab/Jetson-PI-Edge)]
+  <span style="color:red">CoRL 2026 (**Spotlight**)</span>, [[Paper](https://arxiv.org/abs/2607.12659)] [[Code](https://github.com/PKU-SEC-Lab/Jetson-PI)] [[Edge Runtime](https://github.com/PKU-SEC-Lab/Jetson-PI-Edge)]
 - KEEP: A KV-Cache-Centric Memory Management System for Efficient Embodied Planning \
   **Zebin Yang**, Tong Xie, Baotong Lu, Bo Yu, Shaoshan Liu, Meng Li \
   DAC 2026, CCF-A, [[Paper](https://arxiv.org/abs/2602.23592)] [[Github](https://github.com/PKU-SECLab/KEEP_Embodied_Memory)]
