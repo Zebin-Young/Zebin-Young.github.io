@@ -20,6 +20,18 @@ My resume is available here: [[EN](/files/Clean_Resume_YZB.pdf)] 😊 Kind tip: 
 - [2020.09-2024.06] B.S., School of Electronic Engineering and Computer Science, Peking University (PKU) **(with Honors)**
 
 
+# 🤝 Research Internships & Collaborations
+**PrimeBot Research Institute, China** · *Mar. 2026 - Jun. 2026*
+
+Advised by Jiafeng Xu and Hao Dong.
+Edge deployment and inference optimization for VLA models. Research output: **EagleVLA [1]**.
+
+**Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), Shenzhen, China** · *Sept. 2024 - Sept. 2025*
+
+Advised by Bo Yu and Shaoshan Liu.
+Long-horizon robot navigation and planning optimization. Research outputs: **EfficientNav [4]**, **KEEP [2]**.
+
+
 # 🔥 News
 - 🎉 [2026.9] I was awarded the National Scholarship (Ph.D Students)!
 - 🎉 [2026.9.5] Our paper EagleVLA is accepted by CoRL 2026 (**Spotlight**, Top 4.4%)!
@@ -70,5 +82,3 @@ My resume is available here: [[EN](/files/Clean_Resume_YZB.pdf)] 😊 Kind tip: 
 - [2022] Second Prize, 2022 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) (Higher Education Press Cup)
 - [2022] Second Prize, The 38th National Regions Physics Competition
 - [2021] Second Prize, 2021 Asia and Pacific Mathematical Contest in Modeling (APMCM)
-
-
