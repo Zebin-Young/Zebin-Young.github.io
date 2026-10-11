@@ -21,7 +21,7 @@ My resume is available here: [[EN](/files/Clean_Resume_YZB.pdf)] 😊 Kind tip: 
 
 
 # 🤝 Research Internships & Collaborations
-**PrimeBot, China** · *Mar. 2026 - Jun. 2026*<br>
+**PrimeBot, Beijing, China** · *Mar. 2026 - Jun. 2026*<br>
 Advised by Jiafeng Xu and Hao Dong.<br>
 Edge deployment and inference optimization for VLA models. Research output: **EagleVLA [1]**.
 
