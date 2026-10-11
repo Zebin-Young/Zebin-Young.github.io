@@ -21,14 +21,12 @@ My resume is available here: [[EN](/files/Clean_Resume_YZB.pdf)] 😊 Kind tip: 
 
 
 # 🤝 Research Internships & Collaborations
-**PrimeBot Research Institute, China** · *Mar. 2026 - Jun. 2026*
-
-Advised by Jiafeng Xu and Hao Dong.
+**PrimeBot, China** · *Mar. 2026 - Jun. 2026*<br>
+Advised by Jiafeng Xu and Hao Dong.<br>
 Edge deployment and inference optimization for VLA models. Research output: **EagleVLA [1]**.
 
-**Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), Shenzhen, China** · *Sept. 2024 - Sept. 2025*
-
-Advised by Bo Yu and Shaoshan Liu.
+**Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), Shenzhen, China** · *Sept. 2024 - Sept. 2025*<br>
+Advised by Bo Yu and Shaoshan Liu.<br>
 Long-horizon robot navigation and planning optimization. Research outputs: **EfficientNav [4]**, **KEEP [2]**.
 
 
